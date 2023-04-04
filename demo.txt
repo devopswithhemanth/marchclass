@@ -2,3 +2,4 @@ hey hello welcome to devops
 i am commiting directly from UI
 i am commiting from terminal
 i am commiting to test rebase
+making changes to show merge operation
