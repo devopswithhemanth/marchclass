@@ -7,3 +7,4 @@ commiting from feature2 branch
 welcome to the devops class 
 commiting changes to show conflicts
 hi
+testing pull
