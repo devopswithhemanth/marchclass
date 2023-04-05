@@ -1,6 +1,6 @@
 hey hello welcome to devops
-i am commiting directly from UI
+i am hemanth 
 i am commiting from terminal
-i am commiting to test rebase
+welcome to the devops class
 making changes to show merge operation
 hello
