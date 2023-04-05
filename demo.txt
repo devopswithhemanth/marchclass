@@ -1,6 +1,5 @@
 hey hello welcome to devops
 i am hemanth 
 i am commiting from terminal
-welcome to the devops class
-making changes to show merge operation
+welcome to the devops class commiting changes to show conflicts
 hello
