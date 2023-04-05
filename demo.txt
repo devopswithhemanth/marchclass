@@ -1,7 +1,7 @@
-bye hello welcome to devops
-i am hemanth 
-i am commiting from terminal
-i am commiting to test rebase
+hey hello welcome to devops
+i am commiting directly from UI
+hii this is a test commit
+i am commiting to test cinflict operation
 making changes to show merge operation
 commiting from feature2 branch
 welcome to the devops class 
