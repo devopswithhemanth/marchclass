@@ -8,3 +8,4 @@ welcome to the devops class
 commiting changes to show conflicts
 hi
 testing pull
+testing merge
