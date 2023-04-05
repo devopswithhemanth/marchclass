@@ -1,5 +1,6 @@
-hey hello welcome to devops
+bye hello welcome to devops
 i am hemanth 
 i am commiting from terminal
-welcome to the devops class commiting changes to show conflicts
-hello
+welcome to the devops class 
+commiting changes to show conflicts
+hi
